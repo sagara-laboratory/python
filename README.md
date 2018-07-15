@@ -1,3 +1,3 @@
 # python
-Jupyter Notebook
-Bioinformatics -Master class-
+## Jupyter Notebook
+### Bioinformatics -Master class-
